@@ -10,4 +10,4 @@ print("El término número", n, "de la progresión geométrica es:", an)
 
 if r != 1:
     Sn = a1 * (1 - r**n) / (1 - r)
-    print("La suma de los primeros", n, "términos de la progresión geométrica es:", Sn)
+    print("La sumavtotal  de los primeros", n, "términos de la progresión geométrica es:", Sn)
